@@ -23,7 +23,7 @@ export const aboutData = {
   paragraphTwo:
     'Technical skills include: HTML, CSS (and SASS), Javascript (ES6), AJAX, Ruby, Ruby on Rails, Databases (SQL), PostgreSQL, Git, Github and Figma. Have also used Javascript frameworks including React, NextJS and Redux.',
   paragraphThree: 'Always looking for the next challenge.',
-  resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
+  resume: 'https://drive.google.com/file/d/1uL4_ommjtW9jQ8RDxYti9pU4auTmHhMk/view?usp=sharing', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
@@ -69,7 +69,7 @@ export const projectsData = [
 // CONTACT DATA
 export const contactData = {
   cta: '',
-  btn: '',
+  btn: 'email',
   email: 'patrickhoveman@gmail.com',
 };
 
